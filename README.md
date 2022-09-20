@@ -11,6 +11,10 @@ You can read more
 about [File and Code Templates in the WebStorm documentation](https://www.jetbrains.com/help/webstorm/using-file-and-code-templates.html)
 .
 
+> ⚠️ If you are using Visual Studio Code, you can use
+> the [Module Templates](https://marketplace.visualstudio.com/items?itemName=asbjornh.vscode-module-templates) extension
+> to achieve similar results.
+
 ## How to install templates
 
 1. Clone this repo to your computer
