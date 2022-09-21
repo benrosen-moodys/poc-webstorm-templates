@@ -6,6 +6,7 @@ This project contains some basic templates to get you started with File and Code
 - Type Module
 - Function Module
 - Jest Config
+- Lambda Handler Module
 
 You can read more
 about [File and Code Templates in the WebStorm documentation](https://www.jetbrains.com/help/webstorm/using-file-and-code-templates.html)
